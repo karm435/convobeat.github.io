@@ -40,65 +40,50 @@ features                                  :
     
   - title                                 : Instant Mirroring
     description                           : Effortlessly mirror your iPhone screen to your Apple TV with a single tap. Enjoy real-time synchronization of content, ensuring a lag-free and immersive experience
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : display
 
   - title                                 : Customizable Background
     description                           : Personalize your Apple TV display with a wide range of background images. Choose from a curated collection or upload your own high-resolution images for a truly unique setup.
-    fontawesome_icon_name                 : wallet
+    fontawesome_icon_name                 : photo
 
   - title                                 : Title and Description Settings
     description                           : KConfigure a dynamic title for your mirrored content, making it easy for viewers to identify the context. Add detailed descriptions to provide additional information or set the tone for your presentation or entertainment.
-    fontawesome_icon_name                 : eye
+    fontawesome_icon_name                 : book
 
   - title                                 : Apple Music Integration
     description                           : Elevate your experience by seamlessly playing Apple Music from your iPhone to your Apple TV. Control playback, adjust volume, and create the perfect audio backdrop for your content.
-    fontawesome_icon_name                 : tag
+    fontawesome_icon_name                 : music
 
   - title                                 : Real-Time Updates
     description                           : Make changes on the fly – update background images, titles, descriptions, and timers in real time. Keep your content fresh and adapt to the evolving needs of your audience without interrupting the mirroring experience.
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : clock
   
   - title                                 : Optimized for Meetings and Presentations
     description                           : Ideal for business meetings and presentations, ConvoBeat ensures a professional and engaging visual experience. Impress clients and colleagues with a polished display of information and dynamic content.
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : handshake
 
   - title                                 : Secure and Private
     description                           : ConvoBeat prioritizes your privacy and security, ensuring a secure connection between your devices. Share content confidently, knowing that your data remains private and protected.
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : shield
 
 faqs                                      :
 
-  - title                                 : How do I search for a receipt?
-    description                           : You can use receipt, store, tag or product name to search for a receipt on the home screen.
-    fontawesome_icon_name                 : search
+  - title                                 : How do set a background Image?
+    description                           : From the view tab choose a background image to show on the Apple TV.
+    fontawesome_icon_name                 : image
 
-  - title                                 : Installed app on a new device and it is not showing my data?
-    description                           : Sometime iCloud does not trigger the refresh. Navigate to Settings -> Apple Id Account -> iCloud. After that just come back to the app and you should see the data.
-    fontawesome_icon_name                 : users
+  - title                                 : How do I set the title and description?
+    description                           : On the view page set the title for the meeting and a description.
+    fontawesome_icon_name                 : book
 
-  - title                                 : Do I loose all my images if I delete the app?
-    description                           : No, when you create receipt using camera, the images are also saved in your photo library and this way you always have the images with you even after deleting the app. Also, the iCloud sync is ON for the app and if you have not turned it off then your data is saved on iCloud always.
-    fontawesome_icon_name                 : eraser
+  - title                                 : How do I play music?
+    description                           : Select the music tab, It will ask for Music permission and if you grant the permission you should be able to search and play music.
+    fontawesome_icon_name                 : music
 
-  - title                                 : How do I delete a receipt?
-    description                           : You can navigate to All receipts page and can swipe to delete a receipt.
+  - title                                 : How do I start playing on Apple TV?
+    description                           : Start the Mirroring to Apple TV and keep the ConvoBeat app active..
     fontawesome_icon_name                 : trash
 
-  - title                                 : How do I create/delete a store?
-    description                           : While creating a receipt, when you navigate to store page, you can create a new store or swipe to delete an existing store.
-    fontawesome_icon_name                 : trash
-
-  - title                                 : How do I create/delete a tag?
-    description                           : While creating a receipt, when you navigate to tags page, you can create a new tag or swipe to delete an existing tag.
-    fontawesome_icon_name                 : trash
-
-  - title                                 : Can I select multiple tags?
-    description                           : Yes, you can select multiple tags
-    fontawesome_icon_name                 : tag
-
-  - title                                 : How do I contact for support?
-    description                           : You can post on the twitter @ReceiptsC and I will try to respond. 
-    fontawesome_icon_name                 : users
 
 # Theme Settings
 topbar_color                              : "#000000"

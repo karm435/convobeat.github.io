@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-October 19 2020
+Dec 11 2023
 
 # Privacy Policy
 <br>
@@ -24,4 +24,4 @@ We do not collect any personal information.
 <br>
 
 ## 3.0 How we keep and secure the Personal Information we collect
-All the data provided by you stays on the device and if wish delete all the data simply delete the app
+All the data provided by you stays on the device.
